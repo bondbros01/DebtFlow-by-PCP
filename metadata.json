@@ -1,0 +1,8 @@
+{
+  "name": "DebtFlow",
+  "description": "A single-user debt tracking and shared project cost tracking application with relative scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
